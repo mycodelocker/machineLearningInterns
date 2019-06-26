@@ -47,7 +47,7 @@ the command tells Git to add a remote called origin with the address https://git
 
 Now we have connected our local copy of the Demo repository to its remote counterpart on GitHub.com. Your terminal looks like this:
  
-4. 
+
  
 
  
