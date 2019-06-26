@@ -25,9 +25,9 @@ TODO List for creating GIT
 1. create github accouont
 2. create a new repository
 3. create a file , can be done with web interface or through command prompt
+Create a new repository using command prompt
 
- Create a new repository using command prompt
- create a directory (new directory as workspace)
+create a directory (new directory as workspace)
  now to tell the GIT program that the files inside this is under git version control 
  run init
      git init
