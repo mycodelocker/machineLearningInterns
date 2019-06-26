@@ -25,27 +25,14 @@ TODO List for creating GIT
 1. create github accouont
 2. create a new repository
 3. create a file , can be done with web interface or through command prompt
-Create a new repository using command prompt
-
-create a directory (new directory as workspace)
- now to tell the GIT program that the files inside this is under git version control 
+4. Create a new repository using command prompt
+5. create a directory (new directory as workspace)now to tell the GIT program that the files inside this is under git version control 
  run init
-     git init
-     
- Add file by running
-     git add README.md
-
-Make a commit
- git commit -m "message" 
-
-Connect gihub repo with the computer
- git remote add origin "repository"
- 
-the command tells Git to add a remote called origin with the address https://github.com/<repository>/Demo.git
- i.e., the URL of your Git repo on GitHub.com). 
- This allows you to interact with your Git repository on GitHub.com by typing origin instead of the full URL and Git will know where to send your code.
-
-Now we have connected our local copy of the Demo repository to its remote counterpart on GitHub.com. Your terminal looks like this:
+ 6. git init
+ 7. Add file by running: git add README.md
+ 8. Make a commit: git commit -m "message" 
+ 9. Connect gihub repo with the computer: git remote add origin "repository"
+ the command tells Git to add a remote called origin with the address https://github.com/<repository>/Demo.git i.e., the URL of your Git repo on GitHub.com). This allows you to interact with your Git repository on GitHub.com by typing origin instead of the full URL and Git will know where to send your code. Now we have connected our local copy of the Demo repository to its remote counterpart on GitHub.com. Your terminal looks like this:
  
 
  
